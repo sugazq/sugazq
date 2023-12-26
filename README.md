@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugazq&label=Profile%20views&color=0e75b6&style=flat" width = "50px" alt="sugazq" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sugazq" alt="sugazq" /></a> </p>
-
 - 📫 How to reach me **agusyuro03@gmail.com**
 
 - ⚡ Fun fact **I Think I Am Funny**
